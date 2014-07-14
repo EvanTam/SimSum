@@ -7,11 +7,16 @@ example this algorithm will output a high score for the query "Car" and a webpag
 wheel, window, glass, plastic, metal. The reason is that those words are the components and makeup of a car.
 
 This program uses the following toolboxes which are not part of my work:
+
 Stanford POS tagger
+
 Java Wordnet Interface 2.3.0
+
 Boilerpipe 1.2.0
 
+
 This program is based on the semantic distance measuring algorithm from my PhD thesis:
+
 King Yiu Tam, "Video Summarisation Based on Speaker Unit", PhD thesis, University of Sydney, 2011
 
 How to use this program
@@ -29,4 +34,5 @@ My contact
 ==========
 
 If you have any questions or comments feel free to email me:
+
 evantam (AT) hotmail (DOT) com
