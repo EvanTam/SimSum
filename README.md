@@ -10,6 +10,8 @@ This program uses the following toolboxes which are not part of my work:
 
 Stanford POS tagger
 
+WordNet 2.1
+
 Java Wordnet Interface 2.3.0
 
 Boilerpipe 1.2.0
